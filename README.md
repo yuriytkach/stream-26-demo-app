@@ -1,4 +1,4 @@
-# Demo Project for Online Stream #26 - Command Line Apps
+# Demo Project for Online Stream #26 - Elasticsearch
 Demo project for online stream #27 about using Elasticsearch with Spring Data in your Java project
 
 
